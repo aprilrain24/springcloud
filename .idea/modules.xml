@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client-3355/config-client-3355.iml" filepath="$PROJECT_DIR$/config-client-3355/config-client-3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-3344/config-server-3344.iml" filepath="$PROJECT_DIR$/config-server-3344/config-server-3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-dept-80/consumer-dept-80.iml" filepath="$PROJECT_DIR$/consumer-dept-80/consumer-dept-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-dept-feign-80/consumer-dept-feign-80.iml" filepath="$PROJECT_DIR$/consumer-dept-feign-80/consumer-dept-feign-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-hystrix-dashboard/consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/consumer-hystrix-dashboard/consumer-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-7001/eureka-7001.iml" filepath="$PROJECT_DIR$/eureka-7001/eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-7002/eureka-7002.iml" filepath="$PROJECT_DIR$/eureka-7002/eureka-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-7003/eureka-7003.iml" filepath="$PROJECT_DIR$/eureka-7003/eureka-7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-config/eureka-config.iml" filepath="$PROJECT_DIR$/eureka-config/eureka-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-dept-8001/provider-dept-8001.iml" filepath="$PROJECT_DIR$/provider-dept-8001/provider-dept-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-dept-8002/provider-dept-8002.iml" filepath="$PROJECT_DIR$/provider-dept-8002/provider-dept-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-dept-8003/provider-dept-8003.iml" filepath="$PROJECT_DIR$/provider-dept-8003/provider-dept-8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-dept-config/provider-dept-config.iml" filepath="$PROJECT_DIR$/provider-dept-config/provider-dept-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-dept-hystrix-8001/provider-dept-hystrix-8001.iml" filepath="$PROJECT_DIR$/provider-dept-hystrix-8001/provider-dept-hystrix-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-dept-hystrix-config/provider-dept-hystrix-config.iml" filepath="$PROJECT_DIR$/provider-dept-hystrix-config/provider-dept-hystrix-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuui-9527/zuui-9527.iml" filepath="$PROJECT_DIR$/zuui-9527/zuui-9527.iml" />
+    </modules>
+  </component>
+</project>
